@@ -65,6 +65,10 @@ L'ensemble de ces technologies, contribue à la réalisation d'une solution comp
 # Recherche Par service 
 ![image](https://github.com/simo-laaouibi/jsf/assets/148088062/63e1c800-83e5-437f-8021-8c0a4e9968a9)
 
+# Conclusion 
+
+Ce projet a été développé en tirant parti de la puissance de JavaServer Faces (JSF) pour fournir une application web de gestion des employés. JSF a permis de créer une interface utilisateur dynamique et réactive, PrimeFaces a été essentiel pour enrichir l'interface utilisateur facilitant l'interaction avec les fonctionnalités de gestion des services et des employés.
+
 
 
 
