@@ -60,7 +60,8 @@ L'ensemble de ces technologies, contribue à la réalisation d'une solution comp
 ![6 supprimer un employer](https://github.com/simo-laaouibi/jsf/assets/148088062/823377cc-9b83-4a55-97ed-3155fb74334f)
 
 # interface statistique 
-![7 statistique orange ](https://github.com/simo-laaouibi/jsf/assets/148088062/2dad9ebe-59ff-4bfc-a546-0c127717d4c2)
+![image](https://github.com/simo-laaouibi/jsfprojet1/assets/148088062/66bc0901-11fe-4aa1-b807-97a165752004)
+
 
 # Recherche Par service 
 ![image](https://github.com/simo-laaouibi/jsf/assets/148088062/63e1c800-83e5-437f-8021-8c0a4e9968a9)
